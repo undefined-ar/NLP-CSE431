@@ -1,6 +1,6 @@
 **Individual Task**
 
-Youtube Link : [(https://www.youtube.com/watch?v=4MHbmU0uP4o)]
+[Youtube Link](https://www.youtube.com/watch?v=4MHbmU0uP4o)
 
 **Student ID :** 19101584  
 **Name :** Sanzida Akter
