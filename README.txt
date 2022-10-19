@@ -1,4 +1,7 @@
-# NLP-CSE431
+# NLP-CSE431 : Natural Language Processing , Elective Course portfolio ( BRAC UNIVERSITY )
+
+Advisor Name : Annajiat Alim Rasel 
+
 Section : 02
 Team No : 10
 
