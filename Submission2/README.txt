@@ -3,7 +3,7 @@ Link to unlisted youtube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-
+https://docs.google.com/presentation/d/1lPOarHvinTXqHyu1gE1XCy00L5ErR-fVOvo9EXTYLbA/edit?usp=sharing
 
 Paper title:
 Movie Recommendation System Using Sentiment Analysis From Microblogging Data
