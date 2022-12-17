@@ -1,5 +1,4 @@
-Paper Title :Bengali Movie Recommendation System using K
-Nearest Neighbour and Cosine Similarity
+Paper Title :Bengali Movie Recommendation System using K Nearest Neighbour and Cosine Similarity
 
 Dataset : https://drive.google.com/drive/folders/1aHhwNA-d-43Z5Gu05Jx5uxG1-OokjwIY?usp=sharing
 
