@@ -1,10 +1,30 @@
-Paper Title :Bengali Movie Recommendation System using K Nearest Neighbour and Cosine Similarity
-
-Dataset : https://www.kaggle.com/datasets/sanzidaakterarusha/bengali-movie-database-chorki-and-hoichoi
+Unlisted youtube video:
 
 
-Public View of the draft file [doc] : https://docs.google.com/document/d/1a4HwZH-vWEWDZL8Ew329uo_WkVezks5QsFEYfOPdlr8/edit#
-Public View of Overleaf : https://www.overleaf.com/read/rbqvmqvkgrst
+Conference submitted paper / paper submission / login Link:
 
 
-[ON PROCESS]
+Paper title:
+Bengali Movie Recommendation System using K Nearest Neighbor and Cosine Similarity
+
+Paper presentation (anyone can view without login):
+
+
+Paper submission date (to workshop/conference):
+
+
+Paper submission ID: (received) from conference/workshop
+
+
+Conference Name:
+
+
+Conference URL:
+
+Group Number : 10
+
+Group Members :
+19101584	Sanzida Akter 
+18101009	Aanan Ehsan Siam 
+19101463	K.M. Mahfuzul Monir 
+
