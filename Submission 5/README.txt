@@ -30,7 +30,7 @@ Submission Mail : sanzida.akter@g.bracu.ac.bd (Primary)
      - aanan.ehsan.siam@g.bracu.ac.bd
 
 
-Conference URL: https://www.sigapp.org/sac/sac2023/index.html
+
 
 Group Number : 10
 
